@@ -19,4 +19,3 @@ class Account:
             self.transactions.append(Transaction("출금", amount, self.__balance))
         else:
             "금액을 제대로 입력해주세요"
-        
