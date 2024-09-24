@@ -1,5 +1,5 @@
 """
-transaction_typ : 입금 또는 출금이라는 값이 입력이 됩니다.
+transaction_type : 입금 또는 출금이라는 값이 입력이 됩니다.
 
 """
 class Transaction:
